@@ -1,0 +1,122 @@
+CODE,TITLE,TYPE,HOURS,SPITTABLE
+18B11MA111,Mathematics-1,lec,4,1
+18B11PH111,Physics-1,lec,4,1
+18B11HS111,English,lec,4,0
+18B11CI111,Software Development Fundamentals,lec,4,1
+18B17PH171,Physics Lab-1,lab,2,0
+18B17CI171,Software Development Lab,lab,4,0
+18B17ME171,Workshop,lab,3,0
+21B11HS211,Life Skills and Effective Communication,lec,3,0
+18B11MA211,Discrete Mathematics,lec,4,1
+18B11PH211,Physics-2,lec,4,1
+18B11EC211,Electrical Science,lec,4,1
+18B11CI211,Object Oriented Programming,lec,4,1
+18B17PH271,Physics Lab-2,lab,2,0
+18B17EC271,Electrical Science Lab,lab,2,0
+18B17CI271,Object Oriented Programming Lab,lab,2,0
+18B17ME272,Engineering Drawing Design Lab,lab,3,0
+18B11HS312,Techniques for decision making,lec,3,1
+18B11CI311,Data Structures,lec,4,1
+18B11EC311,Digital Systems and Microprocessors,lec,4,1
+18B11CI312,Database Systems,lec,3,1
+18B19GE399,Environmental Science,lec,2,1
+18B17CI371,Data Structures lab,lab,2,0
+18B17EC371,Digital Systems and Microprocessor Lab,lab,2,0
+18B17CI372,Database Systems Lab,lab,2,0
+18B17CI307,UI/UX Lab,lab,2,0
+18B17CI373,Advanced Programming Lab-1,lab,3,0
+18B11CI411,Computer Networks,lec,3,1
+18B11CI412,Algorithms and Problem Solving,lec,4,1
+18B11CI413,Operating Systems,lec,3,1
+14B11CI711,Artificial Intelligence & Application,lec,4,1
+18B17CI472,Algorithms Lab,lab,2,0
+18B17CI473,Operating Systems Lab,lab,2,0
+14B17CI772,AI & Application Lab,lab,2,0
+18B17CI471,Computer Networks Lab,lab,2,0
+18B28CI408,Mobile and Application Development Lab,lab,3,0
+18B11HS411,Life Skills,lec,2,1
+18B11MA511,Probability Theory and Random Processes,lec,4,1
+18B11CI511,Theory of Computation,lec,4,1
+18B17CI507,Open Source Software Lab,lab,2,0
+18B17CI573,Advanced Programming Lab-2,lab,3,0
+18B11CI414,Computer Organisation and Architecture,lec,4,1
+18B11CI612,Software Engineering,lec,3,1
+18B17CI474,Computer Organisation and Architecture Lab,lab,2,0
+18B17CI672,Software Engineering Lab,lab,2,0
+18B17CI673,Advanced Programming Lab-3,lab,2,0
+18B19HS491,Human Values and Professional Ethics,lec,2,0
+18B19HS492,Entrepreneurship and Startup Business,lec,2,0
+21B19HS399,Professional communication Practice,lab,2,0
+18B19HS599,Indian Constitution & Traditional Knowledge,lec,2,0
+18B14HS441,Concepts of Digital Marketing,lec,3,0
+21B14HS547,Concepts of Economics,lec,3,0
+18B14HS541,Logical & Quantitative Technique,lec,3,0
+18B14HS741,Knowledge management,lec,3,0
+18B14MA541,Data Science,lec,3,0
+18B14MA542,Science of Web,lec,3,0
+18B14MA543,Number System and Cryptography,lec,3,0
+18B14MA544,Fuzzy Systems and Applications,lec,3,0
+18B14PH541,Introduction to Quantum Computing,lec,3,0
+18B14PH542,Nano Science,lec,3,0
+18B14PH543,Materials Science and Applications,lec,3,0
+18B14CL541,Biochemistry,lec,3,0
+18B14CL741,Data Science Lab,lec,3,0
+18B14CI541,Compiler Design,lec,3,0
+18B14CI542,Object Oriented Computing,lec,3,0
+18B14CI543,Real Time Systems,lec,3,0
+18B14CI544,Embedded Systems,lec,3,0
+18B14CI545,Logic in Computer Science,lec,3,0
+18B14CI546,E-Commerce,lec,3,0
+18B14CI547,Advanced Concepts in DBMS,lec,3,0
+18B14CI549,System Programming,lec,3,0
+18B14CI550,Information Security,lec,3,0
+18B14CI641,Concurrency Control and Security of Databases,lec,3,0
+18B14CI642,Computer Graphics,lec,3,0
+18B14CI643,Computer Systems Security,lec,3,0
+18B14CI644,Human Aspects of Information Technology,lec,3,0
+18B14CI645,Graph Algorithms and Applications,lec,3,0
+18B14CI647,Image Processing,lec,3,0
+18B14CI741,Soft Computing,lec,3,0
+18B14CI742,Network Management,lec,3,0
+18B14CI743,Fault Tolerant Computing Systems,lec,3,0
+18B14CI744,Ad-hoc and Wireless Networks,lec,3,0
+18B14CI745,Modelling For Computer Networks,lec,3,0
+18B14CI746,Design Pattern,lec,3,0
+18B14CI747,Internet of Things,lec,3,0
+18B14CI748,Network Security,lec,3,0
+18B14CI749,Introduction to Software Architecture,lec,3,0
+18B14CI750,Software Engineering & Management,lec,3,0
+18B14CI751,Introduction to Service Oriented Architecture,lec,3,0
+18B14CI752,Information Retrieval & Data Mining,lec,3,0
+18B14CI753,Computation Complexity,lec,3,0
+18B14CI754,Introduction to Queueing Networks,lec,3,0
+18B14CI755,Data and Information Fusion,lec,3,0
+18B14CI756,Component Based Software Engineering,lec,3,0
+18B14CI757,Introduction to Grid Computing,lec,3,0
+18B14CI758,Parallel Computing,lec,3,0
+18B14CI759,Data Mining Tools and Applications,lec,3,0
+18B14CI760,Distributed Systems,lec,3,0
+18B14CI761,Multimedia Security,lec,3,0
+18B14CI762,Logic and Function Programming,lec,3,0
+18B14CI763,Big Data Analytics,lec,3,0
+18B14CI764,Software Testing,lec,3,0
+18B14CI841,Cryptography Systems,lec,3,0
+18B14CI842,Mobile Computing,lec,3,0
+18B14CI843,Introduction to Machine Learning,lec,3,0
+18B14CI844,Algorithms Analysis and Design,lec,3,0
+18B14CI845,Introduction to Natural Language Processing,lec,3,0
+18B14CI846,Introduction to Digital Forensics,lec,3,0
+18B14CI847,Cloud Computing,lec,3,0
+18B14CI848,Client-Server Computing,lec,3,0
+18B14CI849,Fog Computing,lec,3,0
+18B14CI850,Software Quality Management,lec,3,0
+18B14CI851,Storage Area Networks,lec,3,0
+19B14CI852,Neural Network & Applications,lec,3,0
+18B14CI853,Reinforcement Learning,lec,3,0
+18B14CI854,Green Computing,lec,3,0
+18B14CI855,Introduction to Swarm Intelligence,lec,3,0
+18B14CI858,Web Engineering,lec,3,0
+19B14CI749,Information Retrieval and Opinion Mining,lec,3,0
+21B14CI741,Augmented and Virtual Reality,lec,3,0
+21B14CI742,Full Stack Development,lec,3,0
+21B14CI743,DevOps,lec,3,0
