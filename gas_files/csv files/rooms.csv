@@ -1,5 +1,5 @@
-ROOMS 
-Name,Type
+rooms,
+name,type
 LT1,lec
 LT2,lec
 CL1,lab
