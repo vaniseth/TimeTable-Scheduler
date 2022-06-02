@@ -22,12 +22,11 @@ class TableModel(QtCore.QAbstractTableModel):
         return len(self.data[0])
 
     def headerData(self, p_int, Qt_Orientation, role=None):
-        if role == QtCore.Qt.DisplayRole:
-            if Qt_Orientation == QtCore.Qt.Horizontal: 
-                return QtCore.QVariant(self.header[0][p_int])
-            # elif Qt_Orientation == QtCore.Qt.Vertical:
-            #     return QtCore.QVariant(self.header[1][p_int])
-            return QtCore.QVariant()
+        if Qt_Orientation == QtCore.Qt.Horizontal and role == QtCore.Qt.DisplayRole:
+            return QtCore.QVariant(self.header[0][p_int])
+        # elif Qt_Orientation == QtCore.Qt.Vertical and role == QtCore.Qt.DisplayRole:
+        #     return QtCore.QVariant(self.header[1][p_int])
+        return QtCore.QVariant()
 
     def setData(self, index, value, role=None):
         if not index.isValid():
