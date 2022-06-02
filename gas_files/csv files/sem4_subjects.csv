@@ -1,4 +1,5 @@
-Code,Title,Type,Hours,Splittable
+subjects,,,,
+code,title,type,hours,splittable
 18B11CI411,Computer Networks ,lec,3,1
 18B17CI471,Computer Networks Lab,lab,2,0
 18B11CI412,Algorithms and Problem Solving ,lec,4,1
