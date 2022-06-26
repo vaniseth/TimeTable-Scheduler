@@ -15,8 +15,4 @@ Timetable generator for universities using Genetic Algorithm. We tried to create
 
 ### WORKING:
 
-
-![image](https://user-images.githubusercontent.com/74897823/171674345-62889ce3-023e-4cf4-9766-5b039ec21521.png)
-
-
 ![WORKING@2x](https://user-images.githubusercontent.com/74897823/175820689-8d103aab-eedb-46de-bf01-a514b8b98031.png)
